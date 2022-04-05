@@ -8,7 +8,7 @@ public class Conversion_1 {
 	
 	public static void intToString() {
 		int i = 99;
-		String s = "4";
+		String s = "13";
 		int converts = Integer.parseInt(s);// String converted to int
 		System.out.println("Value was before convrting : "+(i+s));
 		System.out.println("Value was before convrting : "+(i+converts));
